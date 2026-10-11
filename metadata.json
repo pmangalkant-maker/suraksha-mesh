@@ -1,0 +1,6 @@
+{
+  "name": "SURAKSHA MESH",
+  "description": "Offline-First Women Safety, BLE Emergency Mesh Communication & Safe-Haven Network with Pink & Blue Glassmorphism UI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
